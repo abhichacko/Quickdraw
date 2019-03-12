@@ -1,2 +1,2 @@
 # Quickdraw
-doodle predication in real time
+doodle prediction in real time
